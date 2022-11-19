@@ -1,3 +1,5 @@
+# 1. Парсинг сайта habr.com
+
 import requests as req
 from bs4 import BeautifulSoup
 import json
